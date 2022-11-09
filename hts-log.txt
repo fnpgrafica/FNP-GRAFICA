@@ -1,0 +1,155 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 09 Nov 2022 16:35:19 at https://acorlaranja.pt/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://acorlaranja.pt/ -O1 "C:\Users\fnpde\OneDrive\Documents\FNP GRAFICA SITE OFFCIAL  2022" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:42:20	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://acorlaranja.pt/feed/ (from https://acorlaranja.pt/)
+16:42:20	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://acorlaranja.pt/wp-content/plugins/piotnet-addons-for-elementor/assets/css/minify/extension.min.css?ver=2.4.13 (from https://acorlaranja.pt/)
+16:45:10	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://acorlaranja.pt/)
+16:49:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://acorlaranja.pt/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=5.4.2 (from https://acorlaranja.pt/)
+16:49:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://acorlaranja.pt/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=5.4.2 (from https://acorlaranja.pt/)
+16:49:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://acorlaranja.pt/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.8.0 (from https://acorlaranja.pt/)
+16:49:52	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://acorlaranja.pt/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff (from https://acorlaranja.pt/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3)
+16:49:56	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=7200
+16:49:56	Warning: 	File has moved from https://acorlaranja.pt/?p=7200 to https://acorlaranja.pt/portfolios/
+17:02:20	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=190
+17:02:20	Warning: 	File has moved from https://acorlaranja.pt/?p=190 to https://acorlaranja.pt/sobre-nos/
+17:02:20	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=192
+17:02:20	Warning: 	File has moved from https://acorlaranja.pt/?p=192 to https://acorlaranja.pt/equipa/
+17:02:25	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=4751
+17:02:25	Warning: 	File has moved from https://acorlaranja.pt/?p=4751 to https://acorlaranja.pt/web-design/
+17:02:39	Error: 	"Not Found" (404) at link https://acorlaranja.pt/web-design/%22https:/acorlaranja.pt/politica-privacidade%22Pol%c3%adtica (from https://acorlaranja.pt/web-design/)
+17:02:49	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=5014
+17:02:49	Warning: 	File has moved from https://acorlaranja.pt/?p=5014 to https://acorlaranja.pt/producao/
+17:02:49	Error: 	"Not Found" (404) at link https://acorlaranja.pt/producao/%22https:/acorlaranja.pt/politica-privacidade%22Politica (from https://acorlaranja.pt/producao/)
+17:02:52	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=194
+17:02:52	Warning: 	File has moved from https://acorlaranja.pt/?p=194 to https://acorlaranja.pt/marketing-digital/
+17:02:52	Error: 	"Not Found" (404) at link https://acorlaranja.pt/marketing-digital/%22https:/acorlaranja.pt/politica-privacidade%22Pol%c3%adtica (from https://acorlaranja.pt/marketing-digital/)
+17:02:53	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=196
+17:02:53	Warning: 	File has moved from https://acorlaranja.pt/?p=196 to https://acorlaranja.pt/desenvolvimento-social/
+17:02:53	Error: 	"Not Found" (404) at link https://acorlaranja.pt/desenvolvimento-social/%22https:/acorlaranja.pt/politica-privacidade%22Politica (from https://acorlaranja.pt/desenvolvimento-social/)
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=198
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=198 to https://acorlaranja.pt/contactos/
+17:03:01	Error: 	"Not Found" (404) at link https://acorlaranja.pt/contactos/%22https:/acorlaranja.pt/politica-privacidade/ (from https://acorlaranja.pt/contactos/)
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=1349
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=1349 to https://acorlaranja.pt/portfolio/anuncio-de-imprensa-engexpor/
+17:03:01	Error: 	"Not Found" (404) at link https://acorlaranja.pt/portifolio/ (from https://acorlaranja.pt/portfolio/anuncio-de-imprensa-engexpor/)
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=1290
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=1290 to https://acorlaranja.pt/portfolio/redes-sociais-meu-merkado/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=1333
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=1333 to https://acorlaranja.pt/portfolio/rebranding-jornal-alcochete-cma/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=463
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=463 to https://acorlaranja.pt/portfolio/rebranding-gonzaga-seguros/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=930
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=930 to https://acorlaranja.pt/portfolio/branding-food-plus/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=917
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=917 to https://acorlaranja.pt/portfolio/proposta-de-evento-state-fragility/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=1177
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=1177 to https://acorlaranja.pt/portfolio/branding-action-week-2/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=4590
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=4590 to https://acorlaranja.pt/portfolio/redes-sociais-chipink/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=1138
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=1138 to https://acorlaranja.pt/portfolio/guia-cartao-amadora-65/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=6014
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=6014 to https://acorlaranja.pt/portfolio/encore-2020/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=5999
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=5999 to https://acorlaranja.pt/portfolio/site-rescsan-stp/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=5969
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=5969 to https://acorlaranja.pt/portfolio/site-adappa/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=5955
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=5955 to https://acorlaranja.pt/portfolio/site-portal-lisboa-acolhe-casa-do-brasil-de-lisboa/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=1250
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=1250 to https://acorlaranja.pt/portfolio/guia-de-acolhimento-camara-municipal-amadora/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=4607
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=4607 to https://acorlaranja.pt/portfolio/redes-sociais-simples-mila/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=4571
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=4571 to https://acorlaranja.pt/portfolio/redes-sociais-ecuphar-portugal/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=1358
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=1358 to https://acorlaranja.pt/portfolio/site-rumo-2030-imvf/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=1310
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=1310 to https://acorlaranja.pt/portfolio/branding-oficina-grafica-76/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=1277
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=1277 to https://acorlaranja.pt/portfolio/manual-ods-imvf/
+17:03:01	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=1163
+17:03:01	Warning: 	File has moved from https://acorlaranja.pt/?p=1163 to https://acorlaranja.pt/portfolio/brochura-digital-lisbon-talks/
+17:03:02	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=1150
+17:03:02	Warning: 	File has moved from https://acorlaranja.pt/?p=1150 to https://acorlaranja.pt/portfolio/relatorio-digital-prime-watch/
+17:03:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://acorlaranja.pt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Facorlaranja.pt%2Fportfolio%2Frelatorio-digital-prime-watch%2F (from https://acorlaranja.pt/portfolio/relatorio-digital-prime-watch/)
+17:03:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://acorlaranja.pt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Facorlaranja.pt%2Fportfolio%2Frelatorio-digital-prime-watch%2F&format=xml (from https://acorlaranja.pt/portfolio/relatorio-digital-prime-watch/)
+17:03:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://acorlaranja.pt/wp-content/uploads/2021/04/bPrime_02.gif (from https://acorlaranja.pt/portfolio/relatorio-digital-prime-watch/)
+17:03:28	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=1119
+17:03:28	Warning: 	File has moved from https://acorlaranja.pt/?p=1119 to https://acorlaranja.pt/portfolio/branding-campeonato-angolano-para-amputados/
+17:03:28	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=1107
+17:03:28	Warning: 	File has moved from https://acorlaranja.pt/?p=1107 to https://acorlaranja.pt/portfolio/guia-de-recursos-senior-digital-camara-municipal-amadora/
+17:03:28	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=1095
+17:03:28	Warning: 	File has moved from https://acorlaranja.pt/?p=1095 to https://acorlaranja.pt/portfolio/decoracao-de-mota-paletaria/
+17:03:28	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=1079
+17:03:28	Warning: 	File has moved from https://acorlaranja.pt/?p=1079 to https://acorlaranja.pt/portfolio/catalogo-bmq/
+17:03:28	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=1051
+17:03:28	Warning: 	File has moved from https://acorlaranja.pt/?p=1051 to https://acorlaranja.pt/portfolio/relatorio-prime-watch/
+17:03:28	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=1037
+17:03:28	Warning: 	File has moved from https://acorlaranja.pt/?p=1037 to https://acorlaranja.pt/portfolio/catalogo-lisbon-talks/
+17:03:28	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://acorlaranja.pt/wp-content/uploads/2021/04/X-IMG_3027-uai-1200x800-1.png (from https://acorlaranja.pt/portfolio/merchandising-morpheus/)
+17:03:29	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=905
+17:03:29	Warning: 	File has moved from https://acorlaranja.pt/?p=905 to https://acorlaranja.pt/portfolio/merchandising-morpheus/
+17:03:29	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=887
+17:03:29	Warning: 	File has moved from https://acorlaranja.pt/?p=887 to https://acorlaranja.pt/portfolio/livro-fundacao-aga-khan/
+17:03:29	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=878
+17:03:29	Warning: 	File has moved from https://acorlaranja.pt/?p=878 to https://acorlaranja.pt/portfolio/producao-fundacao-aga-khan/
+17:03:29	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=867
+17:03:29	Warning: 	File has moved from https://acorlaranja.pt/?p=867 to https://acorlaranja.pt/portfolio/decoracao-carro-veritas/
+17:03:29	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=850
+17:03:29	Warning: 	File has moved from https://acorlaranja.pt/?p=850 to https://acorlaranja.pt/portfolio/livro-de-finalista-camara-municipal-amadora/
+17:03:29	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://acorlaranja.pt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Facorlaranja.pt%2Fportfolio%2Flivro-de-finalista-camara-municipal-amadora%2F&format=xml (from https://acorlaranja.pt/portfolio/livro-de-finalista-camara-municipal-amadora/)
+17:03:40	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=839
+17:03:40	Warning: 	File has moved from https://acorlaranja.pt/?p=839 to https://acorlaranja.pt/portfolio/decoracao-de-loja-paletaria/
+17:03:40	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=827
+17:03:40	Warning: 	File has moved from https://acorlaranja.pt/?p=827 to https://acorlaranja.pt/portfolio/packaging-811/
+17:03:40	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=807
+17:03:40	Warning: 	File has moved from https://acorlaranja.pt/?p=807 to https://acorlaranja.pt/portfolio/packaging-beonlt/
+17:03:40	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=794
+17:03:40	Warning: 	File has moved from https://acorlaranja.pt/?p=794 to https://acorlaranja.pt/portfolio/arte-final-quiosque-alegria/
+17:03:40	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=781
+17:03:40	Warning: 	File has moved from https://acorlaranja.pt/?p=781 to https://acorlaranja.pt/portfolio/diretorio-hotel-alegria/
+17:03:40	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=731
+17:03:40	Warning: 	File has moved from https://acorlaranja.pt/?p=731 to https://acorlaranja.pt/portfolio/merchandising-goncalo-faisca/
+17:03:40	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=696
+17:03:40	Warning: 	File has moved from https://acorlaranja.pt/?p=696 to https://acorlaranja.pt/portfolio/jogo-didatico-protecao-civil-amadora/
+17:03:40	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=652
+17:03:40	Warning: 	File has moved from https://acorlaranja.pt/?p=652 to https://acorlaranja.pt/portfolio/livro-na-minha-escola-cabe-o-mundo/
+17:03:40	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=635
+17:03:40	Warning: 	File has moved from https://acorlaranja.pt/?p=635 to https://acorlaranja.pt/portfolio/merchandising-engexpor/
+17:03:40	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=623
+17:03:40	Warning: 	File has moved from https://acorlaranja.pt/?p=623 to https://acorlaranja.pt/portfolio/branding-hotel-rural-da-catraia/
+17:03:40	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=610
+17:03:40	Warning: 	File has moved from https://acorlaranja.pt/?p=610 to https://acorlaranja.pt/portfolio/merchandising-amadora-resiliente/
+17:03:40	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=593
+17:03:40	Warning: 	File has moved from https://acorlaranja.pt/?p=593 to https://acorlaranja.pt/portfolio/redes-sociais-clinica-cautela/
+17:03:41	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=568
+17:03:41	Warning: 	File has moved from https://acorlaranja.pt/?p=568 to https://acorlaranja.pt/portfolio/redes-sociais-morpheus/
+17:03:41	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=551
+17:03:41	Warning: 	File has moved from https://acorlaranja.pt/?p=551 to https://acorlaranja.pt/portfolio/redes-sociais-gonzaga-seguros/
+17:03:41	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=546
+17:03:41	Warning: 	File has moved from https://acorlaranja.pt/?p=546 to https://acorlaranja.pt/portfolio/redes-sociais-pmc-imobiliaria/
+17:03:41	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=513
+17:03:41	Warning: 	File has moved from https://acorlaranja.pt/?p=513 to https://acorlaranja.pt/portfolio/redes-sociais-energy-4-seasons/
+17:03:41	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=502
+17:03:41	Warning: 	File has moved from https://acorlaranja.pt/?p=502 to https://acorlaranja.pt/portfolio/redes-sociais-fatima-morais/
+17:03:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://acorlaranja.pt/wp-content/uploads/2021/04/FATIMA-MORAIS_OlivaisSul-uai-516x516-1.png (from https://acorlaranja.pt/portfolio/redes-sociais-fatima-morais/)
+17:03:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://acorlaranja.pt/wp-content/uploads/2021/04/FATIMA-MORAIS_17-anos-uai-516x516-1.png (from https://acorlaranja.pt/portfolio/redes-sociais-fatima-morais/)
+17:03:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://acorlaranja.pt/wp-content/uploads/elementor/css/post-491.css?ver=1646122634 (from https://acorlaranja.pt/portfolio/brochura-jll/)
+17:04:10	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=491
+17:04:10	Warning: 	File has moved from https://acorlaranja.pt/?p=491 to https://acorlaranja.pt/portfolio/brochura-jll/
+17:04:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://acorlaranja.pt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Facorlaranja.pt%2Fportfolio%2Fbrochura-jll%2F&format=xml (from https://acorlaranja.pt/portfolio/brochura-jll/)
+17:04:16	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=480
+17:04:16	Warning: 	File has moved from https://acorlaranja.pt/?p=480 to https://acorlaranja.pt/portfolio/motion-amadora-resiliente/
+17:04:16	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=6029
+17:04:16	Warning: 	File has moved from https://acorlaranja.pt/?p=6029 to https://acorlaranja.pt/portfolio/gonzaga-seguros/
+17:04:16	Warning: 	Moved Permanently for https://acorlaranja.pt/?p=3
+17:04:16	Warning: 	File has moved from https://acorlaranja.pt/?p=3 to https://acorlaranja.pt/politica-privacidade/
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 minutes 57 seconds : 959 links scanned, 875 files written (165893764 bytes overall) [156630857 bytes received at 90173 bytes/sec], 12237646 bytes transferred using HTTP compression in 384 files, ratio 19%, 13.1 requests per connection
+(7 errors, 137 warnings, 0 messages)
